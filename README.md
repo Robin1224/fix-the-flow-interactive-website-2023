@@ -3,10 +3,10 @@ Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uit
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+Fix The Flow - Funda
 
 ## User Story
-<!-- Schrijf de user story waar je aan hebt gewerkt  -->
+> As a User, I want to be able to create custom ratting points so that so I have a better control over qualities of the object that I value.
 
 ## Beschrijving
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
