@@ -5,7 +5,7 @@
   --text-color-secondary: #000;
 
   --main-radius: 1.5rem;
-  
+
   --donate-section-width: 30rem;
 }
 
@@ -21,7 +21,17 @@ body {
   line-height: 1.5;
   color: var(--text-color-main);
   background-color: var(--background-color);
-  height: 100vh;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin: 2rem 1rem -1rem 5rem;
+  text-transform: uppercase;
+}
+
+main {
+  height: calc(100vh - 4rem);
   overflow: hidden;
 
   display: grid;
